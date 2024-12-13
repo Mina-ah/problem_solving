@@ -1,0 +1,23 @@
+String Manipulation:
+Count the number of vowels and consonants in a string.
+Check if two strings are anagrams.
+Reverse a string without using built-in functions.
+Find the first non-repeating character in a string.
+Check if a string is a palindrome.
+3. Array/Matrix Operations:
+Rotate an array by K positions.
+Find the largest or smallest element in an array.
+Check if two arrays are equal (ignoring order).
+Transpose a matrix.
+Find the sum of the main diagonal and secondary diagonal in a square matrix.
+4. Control Flow/Decision Making:
+Check if a number is an Armstrong number.
+Find the sum of digits of a number until it reduces to a single digit.
+Implement a simple calculator for basic operations (+, -, *, /).
+Check if a year is a magic year (sum of digits of the year equals some given value).
+5. Sorting/Searching Problems:
+Implement bubble sort or insertion sort.
+Perform binary search on a sorted array.
+Merge two sorted arrays into one sorted array.
+Find the missing number in a sequence.
+Find the element that appears only once in an array where every other element appears twice.
